@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Margin Dimen -->
+    <dimen name="m_xs">5dp</dimen>
+    <dimen name="m_s">8dp</dimen>
+    <dimen name="m_m">10dp</dimen>
+    <dimen name="m_r">15dp</dimen>
+    <dimen name="m_l">20dp</dimen>
+    <dimen name="m_xl">25dp</dimen>
+    <dimen name="m_xxl">30dp</dimen>
+    <dimen name="m_xxxl">70dp</dimen>
+
+    <!-- Font Sizes -->
+    <dimen name="f_n">12sp</dimen> // Font Normal
+    <dimen name="f_t">14sp</dimen> // Font Title
+    <dimen name="f_lt">16sp</dimen> // Font Large Title
+    <dimen name="f_xlt">20sp</dimen>
+    <dimen name="f_xxlt">25sp</dimen>
+    <dimen name="f_xxxlt">40sp</dimen>
+    <dimen name="f_d_m">16dp</dimen> // Font Default Margin
+</resources>
